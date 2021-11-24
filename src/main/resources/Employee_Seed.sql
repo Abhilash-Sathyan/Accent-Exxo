@@ -1,1 +1,1 @@
-
+insert into employee(uuid,name,email,addressLine1,city,state,createDate) values (b5ce4b08-34ef-47aa-ad78-d3b5d59e62e2,"Steve Aden","steaveaden@accn.com","Downtown San Jose","San Jose","California",2021-02-11T15:45:01.123);
